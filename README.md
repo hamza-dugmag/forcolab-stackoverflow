@@ -12,4 +12,4 @@ Extracts links and tallies domains from all *Stack Overflow* posts.
 
 Run `python extract_links_domains.py` and `python stackoverflow_links.py`
 
-Outputs the 4 files in the same directory where the scripts were run.
+Outputs 4 files in the same directory where the scripts were run.
