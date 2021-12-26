@@ -3,7 +3,7 @@
 ## Community Clustering
 Hierarchical density-based spatial clustering to classify *Stack Overflow* community posts by length, activity, popularity, and structure.
 
-Run `.\clustering.sh` (Linux) or `.\clustering.bat` (Windows)
+Run `./clustering.sh` (Linux) or `./clustering.bat` (Windows)
 
 Outputs the `hdbscan_results` folder in the same directory where the script was run.
 
